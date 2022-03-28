@@ -22,12 +22,12 @@ $pip install rich
 
 $pip install mechanize
 
-git clone https://github.com/Oleng1/Dho_Tha
+git clone https://github.com/Aldiwolf/sc-YO-X-AL
 
 #Cara Menjalankan Scripts
 
-$cd Dho_Tha
-
+$cd sc-YO-X-AL
+ 
 $git pull
 
-$python dho_tha_enc.py
+$python sc-YO-X-AL_enc.py
